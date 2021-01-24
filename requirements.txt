@@ -1,0 +1,4 @@
+jqdatasdk>=1.8.0
+diskcache>=5.1.0
+
+
