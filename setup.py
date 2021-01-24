@@ -20,9 +20,9 @@ def get_install_requires():
     return _parse_requirement_file(requirement_file)
 
 setup(
-    name="gm_cache",
+    name="jqdatasdk_cache",
     version="0.1.0",
-    description="掘金SDK API缓存",
+    description="jqdatasdk API缓存",
     packages=find_packages(exclude=("tests", "tests.*")),
     author="chenjiajia",
     author_email="chenjiajia1@gmail.com",
